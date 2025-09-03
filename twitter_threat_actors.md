@@ -5,7 +5,8 @@
 |https://x.com/NitrogenSupp| Nitrogen | |
 |https://x.com/Anubis__media| Anubis | |
 |https://x.com/8BASEH0ME| 8BASE | Ransomware |
-|https://twitter.com/altoufanteam | Al Toufan Team | |
+|https://x.com/toufanaksa | Al Toufan Team | |
+|https://x.com/CyberToufanTeam | Cyber Toufan Team | |
 |https://x.com/KeymousTeam| keymous+ | DDoS |
 |https://x.com/sextorts| Hasan (Breach Forums) | |
 |https://x.com/RuskiNetGroup| RuskiNet | |
